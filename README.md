@@ -1,4 +1,4 @@
 # demo
 this is my first git repository
 <br>
-autohor as naitik jaiswal
+autohor as naitik jaiswal krishna
